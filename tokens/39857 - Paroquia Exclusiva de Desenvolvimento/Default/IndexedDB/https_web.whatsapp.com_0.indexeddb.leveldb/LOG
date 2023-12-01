@@ -1,0 +1,59 @@
+2023/12/01-13:35:28.866 e303 Recovering log #86430
+2023/12/01-13:35:28.908 e303 Reusing old log /Users/brunoruiz/Projects/FuturosProjetos/Bruno/WhatsAppApiPOC/WhatsAppApi/tokens/39857 - Paroquia Exclusiva de Desenvolvimento/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/086430.log 
+2023/12/01-13:35:28.988 e303 Delete type=3 #80793
+2023/12/01-13:35:45.545 a403 Level-0 table #86442: started
+2023/12/01-13:35:45.586 a403 Level-0 table #86442: 1107104 bytes OK
+2023/12/01-13:35:45.652 a403 Delete type=0 #86430
+2023/12/01-13:35:45.812 a403 Compacting 1@0 + 0@1 files
+2023/12/01-13:35:45.853 a403 Generated table #86443@0: 23592 keys, 389770 bytes
+2023/12/01-13:35:45.877 a403 Generated table #86444@0: 6283 keys, 151990 bytes
+2023/12/01-13:35:45.877 a403 Compacted 1@0 + 0@1 files => 541760 bytes
+2023/12/01-13:35:45.916 a403 compacted to: files[ 0 2 1392 342 0 0 0 ]
+2023/12/01-13:35:46.183 a403 Compacting 1@1 + 0@2 files
+2023/12/01-13:35:46.204 a403 Generated table #86445@1: 3068 keys, 73156 bytes
+2023/12/01-13:35:46.226 a403 Generated table #86446@1: 3123 keys, 73409 bytes
+2023/12/01-13:35:46.246 a403 Generated table #86447@1: 19 keys, 1111 bytes
+2023/12/01-13:35:46.266 a403 Generated table #86448@1: 51 keys, 3273 bytes
+2023/12/01-13:35:46.286 a403 Generated table #86449@1: 22 keys, 1774 bytes
+2023/12/01-13:35:46.286 a403 Compacted 1@1 + 0@2 files => 152723 bytes
+2023/12/01-13:35:46.327 a403 compacted to: files[ 0 1 1397 342 0 0 0 ]
+2023/12/01-13:35:46.348 a403 Delete type=2 #86442
+2023/12/01-13:35:46.349 a403 Delete type=2 #86444
+2023/12/01-13:35:46.634 a403 Compacting 1@2 + 10@3 files
+2023/12/01-13:35:46.677 a403 Generated table #86450@2: 2994 keys, 2147109 bytes
+2023/12/01-13:35:46.722 a403 Generated table #86451@2: 4455 keys, 2149260 bytes
+2023/12/01-13:35:46.778 a403 Generated table #86452@2: 15972 keys, 2174047 bytes
+2023/12/01-13:35:46.855 a403 Generated table #86453@2: 42475 keys, 2241226 bytes
+2023/12/01-13:35:46.934 a403 Generated table #86454@2: 30013 keys, 2267581 bytes
+2023/12/01-13:35:47.012 a403 Generated table #86455@2: 25428 keys, 2278073 bytes
+2023/12/01-13:35:47.091 a403 Generated table #86456@2: 29906 keys, 2265261 bytes
+2023/12/01-13:35:47.182 a403 Generated table #86457@2: 28045 keys, 2264286 bytes
+2023/12/01-13:35:47.260 a403 Generated table #86458@2: 29659 keys, 2258763 bytes
+2023/12/01-13:35:47.326 a403 Generated table #86459@2: 37387 keys, 2204130 bytes
+2023/12/01-13:35:47.326 a403 Compacted 1@2 + 10@3 files => 22249736 bytes
+2023/12/01-13:35:47.371 a403 compacted to: files[ 0 1 1396 342 0 0 0 ]
+2023/12/01-13:35:47.403 a403 Compacting 1@2 + 6@3 files
+2023/12/01-13:35:47.477 a403 Generated table #86460@2: 67354 keys, 2402903 bytes
+2023/12/01-13:35:47.539 a403 Generated table #86461@2: 29310 keys, 2233034 bytes
+2023/12/01-13:35:47.605 a403 Generated table #86462@2: 41176 keys, 2200545 bytes
+2023/12/01-13:35:47.630 a403 Generated table #86463@2: 538 keys, 464450 bytes
+2023/12/01-13:35:47.630 a403 Compacted 1@2 + 6@3 files => 7300932 bytes
+2023/12/01-13:35:47.668 a403 compacted to: files[ 0 1 1395 340 0 0 0 ]
+2023/12/01-13:35:47.685 a403 Delete type=2 #86372
+2023/12/01-13:35:47.685 a403 Delete type=2 #86438
+2023/12/01-13:35:47.685 a403 Delete type=2 #86439
+2023/12/01-13:35:47.685 a403 Delete type=2 #86319
+2023/12/01-13:35:47.685 a403 Delete type=2 #86325
+2023/12/01-13:35:47.685 a403 Delete type=2 #86324
+2023/12/01-13:35:47.685 a403 Delete type=2 #86326
+2023/12/01-13:35:47.685 a403 Delete type=2 #86327
+2023/12/01-13:35:47.685 a403 Delete type=2 #86323
+2023/12/01-13:35:47.686 a403 Delete type=2 #86322
+2023/12/01-13:35:47.686 a403 Delete type=2 #86320
+2023/12/01-13:35:47.686 a403 Delete type=2 #86446
+2023/12/01-13:35:47.686 a403 Delete type=2 #86321
+2023/12/01-13:35:47.686 a403 Delete type=2 #86447
+2023/12/01-13:35:47.686 a403 Delete type=2 #86420
+2023/12/01-13:35:47.686 a403 Delete type=2 #86409
+2023/12/01-13:35:47.686 a403 Delete type=2 #86436
+2023/12/01-13:35:47.686 a403 Delete type=2 #86419
